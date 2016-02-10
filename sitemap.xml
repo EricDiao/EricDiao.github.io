@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://EricDiao.github.com/EricDiao/blog/hello/</loc>
+        <lastmod>2015-11-22T22:39:33+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://EricDiao.github.com/EricDiao/CNAME</loc>
+        <lastmod>2016-02-10T22:44:39+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://EricDiao.github.com/EricDiao/archives/</loc>
+        <lastmod>2015-11-22T22:39:33+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://EricDiao.github.com/EricDiao/</loc>
+        <lastmod>2015-11-22T22:39:33+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://EricDiao.github.com/EricDiao/about/</loc>
+        <lastmod>2015-11-22T22:21:01+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://EricDiao.github.com/EricDiao/robots.txt</loc>
+        <lastmod>2015-11-21T18:45:50+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://EricDiao.github.com/EricDiao/blog/archives/</loc>
+        <lastmod>2015-11-22T22:39:33+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://EricDiao.github.com/EricDiao/blog/</loc>
+        <lastmod>2015-11-22T22:39:33+08:00</lastmod>
+    </url>
+</urlset>

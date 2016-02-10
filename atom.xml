@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[{ Diaoism }]]></title>
+  <link href="http://EricDiao.github.com/EricDiao/atom.xml" rel="self"/>
+  <link href="http://EricDiao.github.com/EricDiao/"/>
+  <updated>2016-02-10T23:01:20+08:00</updated>
+  <id>http://EricDiao.github.com/EricDiao/</id>
+  <author>
+    <name><![CDATA[Diao Zihao]]></name>
+    <email><![CDATA[webmaster@ericdiao.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello.]]></title>
+    <link href="http://EricDiao.github.com/EricDiao/blog/hello/"/>
+    <updated>2015-11-21T05:47:00+08:00</updated>
+    <id>http://EricDiao.github.com/EricDiao/blog/hello</id>
+    <content type="html"><![CDATA[<p>终于，历经了各种失败，这个博客在筹划了半年多后终于开始运行了。</p>
+
+<p>在这个过程中，我先是打算自己用 Python 写一个静态网站生成器，但是很不幸由于时间和精力方面的原因，失败了(<a href="https://github.com/EricDiao/PYever">项目地址</a>）。</p>
+
+<p>搁浅两个多月后我决定用 <a href="http://octopress.org">Octopress</a>，但在最后关头却发现其对中文字符的支持问题，然后又学习了一点点 Ruby 跟着文档把中文支持加了上去，发布了这篇文章。</p>
+
+<p>对于这个网站，我不想在上面发表任何观点，其作用无非是一种记录，无论是在生活中还是如何。</p>
+
+<p>就如“<a href="blog.ericdiao.com/about">about</a>”里面说的，这个地方可能过了一年后还不会有文章，但我相信它会一直运行下去。</p>
+
+<p>刁子豪
+15年十一月22日夜，高二上期中考试前</p>
+]]></content>
+  </entry>
+  
+</feed>
