@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[{ Diaoism }]]></title>
-  <link href="http://EricDiao.github.com/EricDiao/atom.xml" rel="self"/>
-  <link href="http://EricDiao.github.com/EricDiao/"/>
-  <updated>2016-02-10T23:29:56+08:00</updated>
-  <id>http://EricDiao.github.com/EricDiao/</id>
+  <link href="https://blog.ericdiao.com/atom.xml" rel="self"/>
+  <link href="https://blog.ericdiao.com/"/>
+  <updated>2016-02-11T19:47:37+08:00</updated>
+  <id>https://blog.ericdiao.com/</id>
   <author>
     <name><![CDATA[Diao Zihao]]></name>
     <email><![CDATA[webmaster@ericdiao.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello.]]></title>
-    <link href="http://EricDiao.github.com/EricDiao/blog/hello/"/>
+    <link href="https://blog.ericdiao.com/blog/hello/"/>
     <updated>2015-11-21T05:47:00+08:00</updated>
-    <id>http://EricDiao.github.com/EricDiao/blog/hello</id>
+    <id>https://blog.ericdiao.com/blog/hello</id>
     <content type="html"><![CDATA[<p>终于，历经了各种失败，这个博客在筹划了半年多后终于开始运行了。</p>
 
 <p>在这个过程中，我先是打算自己用 Python 写一个静态网站生成器，但是很不幸由于时间和精力方面的原因，失败了(<a href="https://github.com/EricDiao/PYever">项目地址</a>）。</p>

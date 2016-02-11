@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://EricDiao.github.com/EricDiao/sitemap.xml 
+Sitemap: https://blog.ericdiao.com/sitemap.xml 
