@@ -4,7 +4,7 @@
   <title><![CDATA[{ Diaoism }]]></title>
   <link href="https://blog.ericdiao.com/atom.xml" rel="self"/>
   <link href="https://blog.ericdiao.com/"/>
-  <updated>2016-02-13T19:57:21+08:00</updated>
+  <updated>2016-02-13T20:00:11+08:00</updated>
   <id>https://blog.ericdiao.com/</id>
   <author>
     <name><![CDATA[Diao Zihao]]></name>
@@ -25,12 +25,14 @@
 
 <p>今天是 2016 年二月 13 日，当我访问中国工商银行<a href="https://mybank.icbc.com.cn/">『新一代』网银</a>时，他们告诉我如上信息。</p>
 
-<p>24.9 版本的 Chrome 是三年前的产品，最新的 Chrome 版本是 48.0.2564。(ref. 1) 在三年前，当时使用非 Internet Explorer 的用户并不多。而现在，随着智能手机的普及，非 IE 浏览器用户越来越多。根据 2016 年一月数据，Chrome 的市场占有率达到了 57.75%，IE 则只占 16% 不到。(ref.2)作为中国大陆最大的商业银行，工商银行这样做在三年前可以理解，但在现在，我们是不是也可以说『你的年代不被支持』？</p>
+<p>24.9 版本的 Chrome 是三年前的产品，最新的 Chrome 版本是 48.0.2564。(ref. 1) 在三年前，当时使用非 Internet Explorer 的用户并不多。</p>
+
+<p>而现在，随着智能手机的普及，非 IE 浏览器用户越来越多。根据 2016 年一月数据，Chrome 的市场占有率达到了 57.75%，IE 则只占 16% 不到。(ref.2)作为中国大陆最大的商业银行，工商银行这样做在三年前可以理解，但在现在，我们是不是也可以说『你的年代不被支持』？</p>
 
 <p>BTW,工商银行的 SSL 加密做的不错，竟然支持 TLS 1.2。</p>
 
 <p>ref.1 <a href="https://zh.wikipedia.org/wiki/Google_Chrome">&#8216;Google Chrome&#8217; on Wikipedia</a>
-ref.2 <a href="http://gs.statcounter.com/#desktop-browser-CN-monthly-201601-201601-bar"></a></p>
+ref.2 <a href="http://gs.statcounter.com/#desktop-browser-CN-monthly-201601-201601-bar">Statcounter</a></p>
 ]]></content>
   </entry>
   
