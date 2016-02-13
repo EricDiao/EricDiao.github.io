@@ -4,7 +4,7 @@
   <title><![CDATA[{ Diaoism }]]></title>
   <link href="https://blog.ericdiao.com/atom.xml" rel="self"/>
   <link href="https://blog.ericdiao.com/"/>
-  <updated>2016-02-13T20:00:11+08:00</updated>
+  <updated>2016-02-13T20:01:55+08:00</updated>
   <id>https://blog.ericdiao.com/</id>
   <author>
     <name><![CDATA[Diao Zihao]]></name>
@@ -31,8 +31,9 @@
 
 <p>BTW,工商银行的 SSL 加密做的不错，竟然支持 TLS 1.2。</p>
 
-<p>ref.1 <a href="https://zh.wikipedia.org/wiki/Google_Chrome">&#8216;Google Chrome&#8217; on Wikipedia</a>
-ref.2 <a href="http://gs.statcounter.com/#desktop-browser-CN-monthly-201601-201601-bar">Statcounter</a></p>
+<p>ref.1 <a href="https://zh.wikipedia.org/wiki/Google_Chrome">&#8216;Google Chrome&#8217; on Wikipedia</a></p>
+
+<p>ref.2 <a href="http://gs.statcounter.com/#desktop-browser-CN-monthly-201601-201601-bar">Statcounter</a></p>
 ]]></content>
   </entry>
   
