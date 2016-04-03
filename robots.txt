@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: 
-/vpn-guide
+Disallow: /vpn-guide
 
 Sitemap: https://blog.ericdiao.com/sitemap.xml 
