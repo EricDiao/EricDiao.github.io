@@ -4,7 +4,7 @@
   <title><![CDATA[{ Diaoism }]]></title>
   <link href="https://blog.ericdiao.com/atom.xml" rel="self"/>
   <link href="https://blog.ericdiao.com/"/>
-  <updated>2017-05-06T22:41:29+08:00</updated>
+  <updated>2017-05-06T23:04:12+08:00</updated>
   <id>https://blog.ericdiao.com/</id>
   <author>
     <name><![CDATA[Diao Zihao]]></name>
@@ -18,7 +18,9 @@
     <link href="https://blog.ericdiao.com/blog/gaokao/"/>
     <updated>2017-05-06T19:29:00+08:00</updated>
     <id>https://blog.ericdiao.com/blog/gaokao</id>
-    <content type="html"><![CDATA[<p><img src="http://pvg-ericdiao.oss-cn-shanghai.aliyuncs.com/image/DSC_7804.JPG?x-oss-process=image/resize,h_247" width="434" height="247"></p>
+    <content type="html"><![CDATA[<p>海报由刁子豪诚意制作。</p>
+
+<p><img src="https://pvg-ericdiao.oss-cn-shanghai.aliyuncs.com/image/DSC_7804.JPG?x-oss-process=image/resize,h_600" width="900" height="600"></p>
 
 ]]></content>
   </entry>
